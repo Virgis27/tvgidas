@@ -1,0 +1,56 @@
+#EXTM3U
+#EXTINF:-1group-title="LietuviskaTV 1",LRT Televizija
+http://88.216.48.14:80/ltv/live.m3u8
+#EXTINF:-1,TV3
+http://88.216.48.14:80/tv3/live.m3u8
+#EXTINF:-1,LNK
+http://88.216.48.14:80/lnk/live.m3u8
+#EXTINF:-1,TV6
+http://88.216.48.14:80/tv6/live.m3u8
+#EXTINF:-1,TV1
+http://88.216.48.14:80/tv1/live.m3u8
+#EXTINF:-1,BTV
+http://88.216.48.14:80/btv/live.m3u8
+#EXTINF:-1,Info TV
+http://88.216.48.14:80/infotv/live.m3u8
+#EXTINF:-1,TV8
+http://88.216.48.14:80/tv8/live.m3u8
+#EXTINF:-1,Lietuvos ryto televizija
+http://88.216.48.14:80/lrytas/live.m3u8
+#EXTINF:-1,Liuks!
+http://88.216.48.14:80/liuks/live.m3u8
+#EXTINF:-1,Balticum TV
+http://88.216.48.14:80/balticumtv/live.m3u8
+#EXTINF:-1,Balticum Auksinis
+http://88.216.48.14:80/balticauks/live.m3u8
+#EXTINF:-1,Balticum Platinum
+http://88.216.48.14:80/balticplat/live.m3u8
+#EXTINF:-1,TV1000 Premium
+http://88.216.48.14:80/tv1000prem/live.m3u8
+#EXTINF:-1,Filmzone
+http://88.216.48.14:80/filmzon/live.m3u8
+#EXTINF:-1,Sport1
+http://88.216.48.14:80/sport1/live.m3u8
+#EXTINF:-1,Sport 1 HD
+http://88.216.48.14:80/sport1hd/live.m3u8
+
+
+#EXTM3U 
+#EXTINF:-1group-title="LietuviskaTV 2",BTV 
+http://46.251.40.201:9981/stream/channelid/722964377 
+#EXTINF:-1,Info TV 
+http://46.251.40.201:9981/stream/channelid/396232062 
+#EXTINF:-1,Lietuvos rytas TV 
+http://46.251.40.201:9981/stream/channelid/167635695 
+#EXTINF:-1,LIUKS! 
+http://46.251.40.201:9981/stream/channelid/1735892944 
+#EXTINF:-1,LNK 
+http://46.251.40.201:9981/stream/channelid/536762302 
+#EXTINF:-1,TV1 
+http://46.251.40.201:9981/stream/channelid/1957900170 
+#EXTINF:-1,TV3 
+http://46.251.40.201:9981/stream/channelid/872332545 
+#EXTINF:-1,TV6 
+http://46.251.40.201:9981/stream/channelid/1346202106 
+#EXTINF:-1,TV8 
+http://46.251.40.201:9981/stream/channelid/297718943
