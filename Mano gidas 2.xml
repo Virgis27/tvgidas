@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="1">
+<display-name lang="ru">38 попугаев</display-name>
+</channel>
+<channel id="2">
+<display-name lang="ru">А у тебя есть солнце?</display-name>
+</channel>
+<programme start="" stop="" channel="38 попугаев">
+<title lang="ru">Союзмультфильм, 1976 г.</title>
+<desc lang="ru">Первый фильм серии. Как друзья измеряли длину Удава "в мартышках", "в слонятах" и "в попугаях". Для детей</desc>
+</programme>
+<programme start="" stop="" channel="А у тебя есть солнце?">
+<title lang="ru">СВЕРДЛОВСКТЕЛЕФИЛЬМ, 1974 г.</title>
+<desc lang="ru">О дружбе щенка и цыпленка. Для малышей</desc>
+</programme></tv>
