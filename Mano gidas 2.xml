@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+<channel id="LRT TELEVIZIJA">
+<display-name lang="lt">LRT TELEVIZIJA</display-name>
+<url>http://www.tvprograma.lt</url>
+</channel>
+<channel id="LNK">
+<display-name lang="lt">LNK</display-name>
+<url>http://www.tvprograma.lt</url>
+</channel>
+<programme start="20190506060000 +0300" stop="20190506060500 +0300" channel="LRT TELEVIZIJA">
+<title lang="lt">Lietuvos Respublikos himnas</title>
+<desc lang="lt">(n)</desc>
+<icon src="https://content.tvprograma.lt/photos/0_13451200_1404286906.thumb.jpg" />
+</programme>
+<programme start="20190507200000 +0300" stop="20190507203000 +0300" channel="LNK">
+<title lang="lt">Nuo... Iki..</title>
+<desc lang="lt">Gyvenimo būdo žurnalas. Vedėjos Giedrė Talmantienė ir Eglė Kernagytė.(n)</desc>
+<icon src="https://content.tvprograma.lt/photos/0_30653000_1536070219.thumb.jpg" />
+</programme>
+<programme start="20190507203000 +0300" stop="20190507210000 +0300" channel="LNK">
+<title lang="lt">Paveldėtoja 2 (51)</title>
+<desc lang="lt">Rež.: Mantas Verbiejus. Vaid.: Anastasija Marčenkaitė, Arnoldas Eisimantas, Jolanta Dapkūnaitė, Dalia Michelevičiūtė, Donatas Šimukauskas, Mindaugas Papinigis.(n)</desc>
+<icon src="https://content.tvprograma.lt/photos/0_78506500_1517815193.thumb.jpg" />
+</programme></tv>
